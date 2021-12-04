@@ -9,9 +9,8 @@
   "author": "",
   "license": "ISC",
   "browserslist": [
-    "last 2 versions",
-    "not dead",
-    "> 0.5%"
+    "last 6 versions",
+    "> 0.2%"
   ],
   "devDependencies": {
     "browser-sync": "^2.27.7",
@@ -21,8 +20,9 @@
     "gulp-cli": "^2.3.0",
     "gulp-concat": "^2.6.1",
     "gulp-htmlmin": "^5.0.1",
-    "gulp-imagemin": "^8.0.0",
+    "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^5.0.0",
+    "gulp-size": "^4.0.1",
     "sass": "^1.43.5"
   }
 }
